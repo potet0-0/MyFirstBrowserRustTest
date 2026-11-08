@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+fs = "0.0.6"
 tao = "0.37.2"
 tether = "0.3.5"
 wry = "0.57.1"
