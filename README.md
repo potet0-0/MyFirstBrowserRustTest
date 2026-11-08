@@ -16,7 +16,8 @@ after more research i might also need to add JavaScript to this and also learn c
 
 
 ## material i use/references
-https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/How_browsers_work
-https://www.firefox.com/en-US/more/what-is-a-browser/
-https://daily.dev/blog/make-a-web-browser-beginners-guide/
-https://jdrouet.github.io/posts/202503170800-search-engine-part-1/
+* https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/How_browsers_work
+* https://www.firefox.com/en-US/more/what-is-a-browser/
+* https://daily.dev/blog/make-a-web-browser-beginners-guide/
+* https://jdrouet.github.io/posts/202503170800-search-engine-part-1/
+* ## https://www.youtube.com/@letsgetrusty
